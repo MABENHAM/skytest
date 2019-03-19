@@ -41,5 +41,5 @@ defaults:
   values:
     layout: 
     products:
-    -      
+    - 
 permalink: pretty

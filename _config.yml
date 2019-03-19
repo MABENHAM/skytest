@@ -22,7 +22,7 @@ defaults:
     path: ''
     type: menu_corporate
   values:
-    layout:
+    layout: 
     submenu:
      title_submenu:
      url_submenu:

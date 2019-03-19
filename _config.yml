@@ -23,4 +23,7 @@ defaults:
     type: menu_corporate
   values:
     layout: 
+    developers:
+    contact_us:
+    news_events:
 permalink: pretty

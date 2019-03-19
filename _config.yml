@@ -8,7 +8,7 @@ collections:
   uploads:
     title: Uploads
     output: true
-  menu-corporate:
+  menu_corporate:
     title: menu_corporate
     output: true
 defaults:

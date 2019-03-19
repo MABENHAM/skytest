@@ -27,7 +27,7 @@ defaults:
       title_submenu: 
       url_submenu: 
 - scope:
-    path: stories_presentation.markdown
+    path: stories-presentation.markdown
     type: pages
   values:
     layout: 

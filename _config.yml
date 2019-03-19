@@ -19,8 +19,8 @@ defaults:
     layout: post
     permalink: "/posts/:title/"
 - scope:
-    path: ''
-    type: menu_corporate
+    path: menu_corporate.markdown
+    type: pages
   values:
     layout: 
     submenu:

@@ -17,7 +17,10 @@ defaults:
     permalink: "/posts/:title/"
 - scope:
     path: ''
-    type: pages
+    type: menu_corporate
   values:
-    layout: page
+    layout: 
+    developers:
+    news_events:
+    contact_us:
 permalink: pretty

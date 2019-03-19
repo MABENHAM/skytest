@@ -1,0 +1,28 @@
+# OS or Editor files
+*.sublime-*
+.DS_Store
+Thumbs.db
+
+# Always-ignore folders
+node_modules
+
+
+#
+*.bkp
+
+#Jekyll
+.sass-cache
+.jekyll-metadata
+
+.gulp-task
+Gemfile
+Gemfile.lock
+_assets/
+_site/
+node_modules
+.babelrc
+.browserslistrc
+.editorconfig
+gulpfile.babel.js
+package.json
+package-lock.json

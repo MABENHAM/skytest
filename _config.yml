@@ -26,4 +26,13 @@ defaults:
     submenu:
      title_submenu:
      url_submenu:
+- scope:
+    path: ''
+    type: stories_presentation
+  values:
+    layout:
+    stories_content:
+    stories2_title:
+    stories2_content:
+    stories2_form:
 permalink: pretty

@@ -22,8 +22,15 @@ defaults:
     path: ''
     type: menu_corporate
   values:
+<<<<<<< HEAD
     layout:
     submenu:
      title_submenu:
      url_submenu:
+=======
+    layout: 
+    developers: 
+    contact_us: 
+    news_events: 
+>>>>>>> fdb118a2cebd38d93e448abf77e2dc5add90eb85
 permalink: pretty

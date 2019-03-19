@@ -35,4 +35,11 @@ defaults:
     stories2_title: 
     stories2_content: 
     stories2_form: 
+- scope:
+    path: ''
+    type: products
+  values:
+    layout: 
+    products:
+    -      
 permalink: pretty

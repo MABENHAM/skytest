@@ -19,20 +19,20 @@ defaults:
     layout: post
     permalink: "/posts/:title/"
 - scope:
-    path: menu_corporate.markdown
-    type: pages
+    path: ''
+    type: menu_corporate
   values:
     layout: 
     submenu:
-      title_submenu: 
-      url_submenu: 
+     title_submenu:
+     url_submenu:
 - scope:
-    path: ''
-    type: stories_presentation
+    path: stories_presentation.markdown
+    type: pages
   values:
-    layout: 
-    stories_content: 
-    stories2_title: 
-    stories2_content: 
-    stories2_form: 
+    layout:
+    stories_content:
+    stories2_title:
+    stories2_content:
+    stories2_form:
 permalink: pretty

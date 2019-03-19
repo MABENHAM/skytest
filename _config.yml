@@ -11,6 +11,9 @@ collections:
   menu_corporate:
     title: menu_corporate
     output: true
+  products:
+    title: products
+    output: true
 defaults:
 - scope:
     path: ''

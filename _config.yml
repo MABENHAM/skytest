@@ -67,17 +67,12 @@ defaults:
   values:
     layout: 
     story_subtitle:
-    story_subtitle1:
-    logo_form:
-    nombre:
+     story_subtitle1:
+     logo_form:
+     nombre:
       -nombre_description:
-    solution:
+     solution:
       -
-    story_text:
-    story_video:
-    products: 
-    stories: 
-    data: 
-    community: 
-    why_skywise: 
+     story_text:
+     story_video:
 permalink: pretty

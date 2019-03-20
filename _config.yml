@@ -56,23 +56,26 @@ defaults:
     type: barre
   values:
     layout: 
-    products:
-    stories:
-    data:
-    community:
-    why_skywise:
+    products: 
+    stories: 
+    data: 
+    community: 
+    why_skywise: 
 - scope:
     path: ''
     type: story
   values:
     layout: 
-    story_subtitle:
-     story_subtitle1:
-     logo_form:
-     nombre:
-      -nombre_description:
-     solution:
+    storyy:
+      storyy_title:
+      storyy_logo_form: 
+      storyy_nombre:
+      - 
+      storyy_solutions:
       -
-     story_text:
-     story_video:
+      storyy_description: 
+      storyy_video:
+      button:
+        url: 
+        text_button: 
 permalink: pretty

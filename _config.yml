@@ -67,14 +67,14 @@ defaults:
   values:
     layout: 
     storyy:
-      title:
+      title: 
       logo_form: 
       nombre:
       - 
       solutions:
-      -
+      - 
       description: 
-      video:
+      video: 
       button:
         url: 
         text_button: 

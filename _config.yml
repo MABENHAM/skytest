@@ -8,6 +8,9 @@ collections:
   uploads:
     title: Uploads
     output: true
+  barre:
+    title: barre
+    output: true
   menu_corporate:
     title: menu_corporate
     output: true

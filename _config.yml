@@ -17,6 +17,9 @@ collections:
   products:
     title: products
     output: true
+  story:
+    title: story
+    output: true
 defaults:
 - scope:
     path: ''
@@ -72,4 +75,9 @@ defaults:
       -
     story_text:
     story_video:
+    products: 
+    stories: 
+    data: 
+    community: 
+    why_skywise: 
 permalink: pretty

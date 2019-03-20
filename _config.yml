@@ -17,6 +17,9 @@ collections:
   products:
     title: products
     output: true
+  story:
+    title: story
+    output: true
 defaults:
 - scope:
     path: ''

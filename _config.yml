@@ -53,9 +53,9 @@ defaults:
     type: barre
   values:
     layout: 
-    products:
-    stories:
-    data:
-    community:
-    why_skywise:
+    products: 
+    stories: 
+    data: 
+    community: 
+    why_skywise: 
 permalink: pretty

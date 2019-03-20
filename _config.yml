@@ -58,4 +58,18 @@ defaults:
     data:
     community:
     why_skywise:
+- scope:
+    path: ''
+    type: story
+  values:
+    layout: 
+    story_subtitle:
+    story_subtitle1:
+    logo_form:
+    nombre:
+      -nombre_description:
+    solution:
+      -
+    story_text:
+    story_video:
 permalink: pretty
